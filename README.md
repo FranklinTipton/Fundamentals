@@ -9,6 +9,6 @@ Each of these sections will give an overview of the content and link to more in 
 GitHub is a way for you to start storing code and begin to build best practices utilizing version control and git.
 
   - [GitHub Overview](/Github/Overview.md)
-  - [Installing Git](/Github/Overview.md#InstallingGit)
-  - [Signing up to GitHub](/Github/Overview.md#SigninguptoGitHub)
+  - [Installing Git](/Github/Overview.md#installing-git)
+  - [Signing up to GitHub](/Github/Overview.md#Signing-up-to-GitHub)
   - [Creating your first repository](/Github/Overview.md#creating-your-first-repository)
