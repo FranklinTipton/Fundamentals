@@ -1,13 +1,12 @@
-# Fundementals
+# Fundamentals
 
-## GitHub
+This repository is to give you tools and information, and resources to get you started working in various areas such as GitHub, PowerShell, Azure ARM templates, and more.
 
-GitHub is a way for you to start storing code and begin to build best practices utilizing version control and GIT. The benefits of this are:
-  - Ability to contribute to same source code in a team setting.
-  - Reliable storage and access (not computer specific).
-  - Version control allowing you modify code, test neww features, and easily correct breaks.
-  - Open source contributions (if public repository, the limit does not exist for contributors).
+Each of these sections will give an overview of the content and link to more in depth information and resources pertaining to the that subject.
 
-### Getting started
+## Getting Started With GitHub
 
-Getting started with GitHub is a simple process, siging up with an email and password. 
+GitHub is a way for you to start storing code and begin to build best practices utilizing version control and git.
+
+  - [GitHub Overview](/Github/Overview.md)
+  - [Installing Git](/Github/Overview.md#InstallingGit)
