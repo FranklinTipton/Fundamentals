@@ -12,3 +12,13 @@ GitHub is a way for you to start storing code and begin to build best practices 
   - [Installing Git](/Github/Overview.md#installing-git)
   - [Signing up to GitHub](/Github/Overview.md#Signing-up-to-GitHub)
   - [Creating your first repository](/Github/Overview.md#creating-your-first-repository)
+
+## Getting Started With Visual Studio Code
+
+Visual Studio Code is a code editor made by Microsoft for Linux, Windows, and macOS machines. VSCode has some powerful support built in but includes extensions to open up nearly any possiblity you can think of.
+
+  - [VSCode Overview](//Overview.md)
+  - [Installing VSCode](/VsCode/Overview.md)
+
+
+## Getting Started With PowerShell
