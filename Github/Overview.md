@@ -22,3 +22,36 @@ Go [here](https://git-scm.com/downloads) to download git for your OS.
 Getting started with GitHub is a simple process by signing up with an email, creating a username and password.
 
 Go to [GitHub](https://github.com/). The front page is set up to add your email, username, and password and sign up very easily.
+
+![GitHubSignUp](/Github/Images/GitHubSignup.png)
+
+## Creating your first repository
+
+### Repository Overview
+
+A repository contains all folders, files, and revision history for a project. This is the code, documentation, pipeline definitions, etc...
+
+### Choosing a name
+
+Your repository name should be short and memorable. It should give people an idea of what the repo (repository) is about and also get them interested in the project.
+
+### Choosing Public or Private
+
+This decision is based on if you want others to be able to access or not.
+
+  - Public - Anoyone on the internet can see the repository but you can choose who can contribute.
+  - Private - You choose who can see and contribute.
+
+### Initializing the Repository with extras
+
+This allows you to create the repository with some options.
+
+  - README - A file where you can write a long description for your project with information.
+  - .gitignore - You don't need to worry about this one right off the bat. However, later on, this file allows you to define files, or types of files to exclude from being committed to your repository.
+  - Licenses - You can choose to initiate the repository with different licenses. The most common for open source projects is the [MIT License](https://mit-license.org/). This allows users to copy and use or change your code for any scenario they see fit. There are more licenses you you can find more info on all of them [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository).
+
+### Finishing the repository.
+
+To finish creating the repository, simply click the"Create repository" button at the bottom of the page.
+
+![Create Repository Button](/Github/Images/CreateRepositoryButton.png)

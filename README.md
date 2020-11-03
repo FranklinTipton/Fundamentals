@@ -10,3 +10,5 @@ GitHub is a way for you to start storing code and begin to build best practices 
 
   - [GitHub Overview](/Github/Overview.md)
   - [Installing Git](/Github/Overview.md#InstallingGit)
+  - [Signing up to GitHub](/Github/Overview.md#SigninguptoGitHub)
+  - [Creating your first repository](/Github/Overview.md#Creatingyourfirstrepository)
