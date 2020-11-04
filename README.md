@@ -18,9 +18,9 @@ GitHub is a way for you to start storing code and begin to build best practices 
 
 Visual Studio Code is a code editor made by Microsoft for Linux, Windows, and macOS machines. VSCode has some powerful support built in but includes extensions to open up nearly any possiblity you can think of.
 
-  - [VSCode Overview](/VSCode/Overview.md)
-  - [Installing VSCode](/VSCode/Overview.md#installing-vscode)
-  - [Installing Language Extentsions](/VSCode/Overview.md#installing-language-extensions)
+  - [VSCode Overview](/VsCode/Overview.md)
+  - [Installing VSCode](/VsCode/Overview.md#installing-vscode)
+  - [Installing Language Extentsions](/VsCode/Overview.md#installing-language-extensions)
 
 ## Getting Started With PowerShell
 
