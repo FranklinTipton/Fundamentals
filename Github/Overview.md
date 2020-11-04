@@ -57,3 +57,31 @@ This allows you to create the repository with some options.
 To finish creating the repository, simply click the"Create repository" button at the bottom of the page.
 
 ![Create Repository Button](/Github/Images/CreateRepositoryButton.png)
+
+## Cloning the repository to your local machine
+
+Cloning a repository down to your local machine will create a copy of the repository to a location on your computer you specify. It allows you to work on the code locally without changing the code in GitHub unless you want to. This is useful when working with a team to develop something or working in someone elses open source project.
+
+### Choosing a location
+
+> **Best Practice Tip**
+> I generally try and keep all projects in a single location so I don't have to go looking all over for different projects. I suggest creating a **Source** folder (literally a folder named Source) to keep all projects there.
+
+### Clone the repository
+
+Go to your GitHub repository. Select the **Code** dropdown box and select the clipboard icon to copy the URL to your clipboard.
+
+![GitHub Clone URL](/VSCode/Images/githubcloneurl.png)
+
+Copy and paste the following code into a [PowerShell](/PowerShell/Overview.md) terminal window to create the source folder, navigate to that location, and clone the repository. replace `<your repository here>` with the url to your GitHub repository you . Example command: `git clone https://github.com/FranklinTipton/Fundamentals.git`
+
+> This is for Windows only.
+
+```powershell
+# Windows only
+New-Item -Path 'C:\Source' -ItemType Directory -Force
+Set-Location -Path 'C:\Source'
+git clone <your repository here>
+```
+
+Your repository should be cloned and linked to your GitHub Repository
