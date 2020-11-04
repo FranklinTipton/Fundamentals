@@ -14,4 +14,12 @@ Language extensions allow you to write code in different languages and help with
 
 ![marketplace image icon](/VsCode/Images/marketplaceicon.png)
 
-1. Search for your language of choice in the search bar at the top of the **Extensions** tab and click install.
+2. Search for your language of choice in the search bar at the top of the **Extensions** tab and click install.
+
+## Open a Project
+
+You should have created a repository in GitHub and cloned it to your local machine. If you have not, go to the [GitHub Fundamentals page](/Github/Overview.md) and follow those instructions before moving forward.
+
+If you have already completed those instructions, click on **File** > **Open Folder** and select your repository folder in your **Source** folder.
+
+This will open all folders and files in VSCode and allow you to add, remove, and change what ever you need.
