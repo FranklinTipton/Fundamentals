@@ -1,6 +1,6 @@
 # Azure in PowerShell Overview
 
-## Why use Azure in PowerShell
+## Why use PowerShell in Azure
 
 Having already established that PowerShell in itself is a great tool for automation and administration, that extends to the management of Azure as well. A huge benefit of using Azure in PowerShell is the ability to localize the deployment of Azure Resource Management (ARM) Templates. 
 
@@ -8,7 +8,7 @@ It is important to note that installing the AZ module on an account will only ap
 
 ## Connecting to Azure
 
-In our PowerShell Overview we discussed how to get Azure installed in our environment, or you can click [here](/PowerShell/Overview.md#installing-the-Az-PowerShell-module). Since Azure runs off of a subscription you want to ensure you're connected to your account. To get connected copy and paste the following:
+In our PowerShell Overview we discussed how to get Azure installed in our environment, or you can click [here](/PowerShell/Overview.md#installing-the-az-powershell-module). Since Azure runs off of a subscription you want to ensure you're connected to your account. To get connected copy and paste the following:
 
 ```powershell
 Connect-AzAccount
