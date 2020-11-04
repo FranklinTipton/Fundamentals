@@ -8,22 +8,24 @@ Each of these sections will give an overview of the content and link to more in 
 
 GitHub is a way for you to start storing code and begin to build best practices utilizing version control and git.
 
-  - [GitHub Overview](/Github/Overview.md)
-  - [Installing Git](/Github/Overview.md#installing-git)
-  - [Signing up to GitHub](/Github/Overview.md#Signing-up-to-GitHub)
-  - [Creating your first repository](/Github/Overview.md#creating-your-first-repository)
-  - [Cloning the repository to your local machine](/Github/Overview.md#cloning-the-repository-to-your-local-machine)
+- [GitHub Overview](/Github/Overview.md)
+- [Installing Git](/Github/Overview.md#installing-git)
+- [Signing up to GitHub](/Github/Overview.md#Signing-up-to-GitHub)
+- [Creating your first repository](/Github/Overview.md#creating-your-first-repository)
+- [Cloning the repository to your local machine](/Github/Overview.md#cloning-the-repository-to-your-local-machine)
 
 ## Getting Started With Visual Studio Code
 
 Visual Studio Code is a code editor made by Microsoft for Linux, Windows, and macOS machines. VSCode has some powerful support built in but includes extensions to open up nearly any possiblity you can think of.
 
-  - [VSCode Overview](/VsCode/Overview.md)
-  - [Installing VSCode](/VsCode/Overview.md#installing-vscode)
-  - [Installing Language Extensions](/VsCode/Overview.md#installing-language-extensions)
-  - [Open a Project](/VsCode/Overview.md#open-a-project)
+- [VSCode Overview](/VsCode/Overview.md)
+- [Installing VSCode](/VsCode/Overview.md#installing-vscode)
+- [Installing Language Extensions](/VsCode/Overview.md#installing-language-extensions)
+- [Open a Project](/VsCode/Overview.md#open-a-project)
 
 ## Getting Started With PowerShell
+
+PowerShell is a cross-platform task automation, scripting language that also consists of a command-line shell. You can use it to run individual commands, create your own commands, or write full functioning scripts and programs.
 
 - [PowerShell Overview](/PowerShell/Overview.md)
 - [What is PowerShell](/PowerShell/Overview.md#what-is-powershell)
