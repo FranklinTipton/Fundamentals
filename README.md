@@ -21,6 +21,13 @@ Visual Studio Code is a code editor made by Microsoft for Linux, Windows, and ma
   - [VSCode Overview](/VsCode/Overview.md)
   - [Installing VSCode](/VsCode/Overview.md#installing-vscode)
   - [Installing Language Extentsions](/VsCode/Overview.md#installing-language-extensions)
+  - [Open a Project](/VsCode/Overview.md#open-a-project)
 
 ## Getting Started With PowerShell
 
+- [PowerShell Overview](/PowerShell/Overview.md)
+- [What is PowerShell](/PowerShell/Overview.md#what-is-powershell)
+- [Getting Help in PowerShell](/PowerShell/Overview.md#getting-help-in-powershell)
+- [Setting up PowerShell](/PowerShell/Overview.md#setting-up-powershell)
+- [Navigating the File System with PowerShell](/PowerShell/Overview.md#navigating-the-file-system-with-powershell)
+- [Installing a module](/PowerShell/Overview.md#installing-a-module)
