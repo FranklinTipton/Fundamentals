@@ -13,7 +13,6 @@ GitHub is a way for you to start storing code and begin to build best practices 
 
 Git is a free version control system designed to handle small and large projects. It allows you to work on multiple features simultaneously and keep a history of your work.
 
-> [!IMPORTANT]
 > When you are installing git, make sure to select the option to "Add to path." This will make sure that git is accessable when you try and use it in your terminal.
 
 You will need to download git to work in github and any other major code sharing platform.
