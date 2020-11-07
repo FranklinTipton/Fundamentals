@@ -34,10 +34,14 @@ PowerShell is a cross-platform task automation, scripting language that also con
 - [Navigating the File System with PowerShell](/PowerShell/Overview.md#navigating-the-file-system-with-powershell)
 - [Installing a module](/PowerShell/Overview.md#installing-a-module)
 
-## Getting Start With Azure in PowerShell
+## Getting Started With Azure in PowerShell
 
 Azure PowerShell works with PowerShell version 6.2.4 and later on all platforms. These cmdlets allow for a user to control their Azure Resource Manager from the familiarity of the PowerShell window.
 
 - [Installing the AZ module](/PowerShell/Overview.md#installing-a-module)
 - [Connecting to Azure](/AzurePS/Overview.md#Connecting-to-Azure)
 - [Changing Subscriptions in Azure](/AzurePS/Overview.md#Changing-Subscription-in-Azure)
+
+## Getting Started With WordPress in Azure
+
+Azure makes Deploying WebApps simple, with the click of a button. 
