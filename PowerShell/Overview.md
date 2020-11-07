@@ -67,7 +67,7 @@ You can see that `Set-Location` changes the working location to the `Fundamental
 
 ## Installing a module
 
-One of the great things about PowerShell is that you can install different modules. Modules give you access to commands ands scripts that others have written and made available for anyone to use.
+One of the great things about PowerShell is that you can install different modules. Modules give you access to commands and scripts that others have written and made available for anyone to use.
 
 ### PowerShell Gallery
 
